@@ -36,5 +36,5 @@ Accuracy is 0.7863487611033193
 
 Please check my blog post to get more details, here is the link.
 
-Acknowledgements
+## Acknowledgements
 Udacity has to be acknowledged for giving me this wonderful project.
